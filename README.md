@@ -2,7 +2,7 @@ API Usage
 
 Create Journal Entry
 
-POST /api/journal-entries
+POST (http://127.0.0.1:8000/api/journal-entries)
 
 Headers:
 
